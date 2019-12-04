@@ -1,5 +1,5 @@
 
-function Invoke-Empire {
+function Invoke-Nemp {
     <#
         .SYNOPSIS
         The main functionality of the Empire agent.
