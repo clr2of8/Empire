@@ -270,6 +270,8 @@ class Listener:
         Generate a basic launcher for the specified listener.
         """
 
+        safeChecks='False'
+        
         if not language:
             print helpers.color('[!] listeners/http generate_launcher(): no language specified!')
 
